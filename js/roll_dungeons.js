@@ -8,12 +8,12 @@ top.dungeons = [
 
 
   {"title": "d6 This place is a...", "id":"d6thisplaceisa_elementalwaterdungeon", "roll":[
-  "Sea cave.",
-  "Series of flooded tunnels deep underground.",
-  "Stronghold built by aquatic beings.",
-  "Temple dedicated to a watery god.",
-  "Palace built by a water elemental lord.",
-  "Sewer gone wrong.",   ]},
+  "SEA CAVE.",
+  "FLOODED TUNNELS",
+  "STRONGHOLD",
+  "WATER TEMPLE.",
+  "WATER PALACE.",
+  "NASTY SEWER.",   ]},
    {"title": "d6 Water level The chambers in this place...", "id":"d6waterlevelthechambersinthisplace_elementalwaterdungeon", "roll":[
   "Are always flooded up to the ceiling.",
   "Are always flooded in the lower levels.",
