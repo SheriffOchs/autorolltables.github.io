@@ -1268,13 +1268,8 @@ top.dungeons = [
 "An imprisoned being of terrible power (d6): 1. aberration; 2. devil; 3. demon; 4. djinni; 5. efreeti; 6. vampire lord.",
 "A captive princess.",   ]},
 
-  
-  
-  
-{"title": "d2 This is a test...", "id":"d2thisisatest_test", roll:[
-"Option A.",
-"Option B.",   ]},  
-  
+
+
 
 {"title": "d10 This place is (or was) a...", "id":"d10thisplaceisorwasa_dungeondetails", "roll":[
 "A stronghold.",
